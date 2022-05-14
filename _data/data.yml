@@ -14,8 +14,7 @@ sidebar:
     # Sidebar links
     email: t.jiachun23@gmail.com
     phone: (+60)17 326 9673
-    #citizenship:
-    website: jiachun23.github.io #do not add http://
+    website: jiachun23.github.io/online-cv/ #do not add http://
     linkedin: jia-chun-tan-8b73051a0
     github: jiachun23
     #pdf: http://www.africau.edu/images/default/sample.pdf
@@ -28,7 +27,7 @@ sidebar:
         level: Professional
 
       - idiom: Bahasa Malaysia
-        level: Professional
+        level: Intermediate
         
       - idiom: Korean
         level: Beginner
@@ -80,6 +79,8 @@ experiences:
       time: 08/2021 - Present
       company: Fusionex International
       details: |
+        Research and apply AI/ML techniques on business data to gain insights and build predictive modelling 
+        based on business use cases
         
 projects:
     title: Projects
@@ -89,19 +90,24 @@ projects:
 #       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: FYP - Intelligent Car Parking Management System
-        tagline: "Includes 2 major AI features: Vehicle Model Recognition & License Plate Recognition. This project won 2nd placing in the Project Showcase 2020/2021 organised by IT Society & Engineering Society of MMU Melaka."
+        details: |
+         "Includes 2 major AI features: Vehicle Model Recognition & License Plate Recognition. This project won 2nd placing in the Project Showcase 2020/2021 organised by IT Society & Engineering Society of MMU Melaka."
 
       - title: Project - AI Modelling
-        tagline: "Apply AI/ML techniques on business data to gain insights and build predictive modelling based on business use cases."
+        details: |
+         "Develop AI Models on a platform running on cloud so business user could run AI models on their business data with 0 coding experience or knowledge."
         
       - title: Project - Student Performance Analytics
-        tagline: "Explore the student performance data and build predictive modelling to predict students' academic performance."
+        details: |
+         "Explore the student performance data and build predictive modelling to predict students' academic performance."
 
       - title: Project - Text Analytics
-        tagline: "Apply Text Analytics with NLP to analyse text and give scoring based on the received input. Involved in productionalise the application using Docker and Airflow."
+        details: |
+         "Apply Text Analytics with NLP to analyse text and give scoring based on the received input. Involved in productionalise the application using Docker and Airflow."
 
       - title: Project - Object Detection
-        tagline: "Involve in research and experiment the object detection model and label images for model training."
+        details: |
+         "Involve in research and experiment the object detection model and label images for model training."
       
 publications:
     title: Certifications
