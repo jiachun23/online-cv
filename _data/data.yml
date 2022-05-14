@@ -5,7 +5,6 @@
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
-    sports: True
 
     # Profile information
     name: Tan Jia Chun
@@ -47,6 +46,7 @@ career-profile:
       A passionate learner and interested in data exploration, creating creative solutions in Artifical Intelligence
       field. Have a good communication skills as well as a good problem solver that can work in a team. 
       Looking forward to contribute, learn, and grow in offered positions.
+      
 education:
     - degree: Sijil Pelajaran Malaysia (SPM)
       university: SMK St. Francis, Melaka
@@ -63,6 +63,7 @@ education:
       time: 2018 - 2021
       details: |
         CGPA: 3.94
+        
 experiences:
     - role: Internship - Web Developer
       time: 03/2020 - 06/2020
@@ -107,7 +108,6 @@ sports:
         - President for year 2019-2020
         - Secretary for year 2018-2019
         - Winning Champion MASISWA Southern Zone 2018 Table Tennis Team Event as Team Captain
-      
       
 publications:
     title: Certifications
