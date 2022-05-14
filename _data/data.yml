@@ -85,7 +85,7 @@ experiences:
 projects:
     title: Projects
     assignments:
-      - title: FYP - Intelligent Car Parking Management System
+      - title: Intelligent Car Parking Management System (FYP)
         tagline: "Includes 2 major AI features: Vehicle Model Recognition & License Plate Recognition. This project won 2nd placing in the Project Showcase 2020/2021 organised by IT Society & Engineering Society of MMU Melaka."
 
       - title: AI Models
@@ -132,22 +132,22 @@ skills:
         level: 85%
       
       - name: Git
-        level: 70%
+        level: 75%
         
       - name: Java
-        level: 70%
+        level: 75%
         
       - name: HTML
-        level: 70%
+        level: 75%
       
       - name: PHP
-        level: 70%
+        level: 75%
         
       - name: Docker
-        level: 70%
+        level: 75%
 
       - name: Photoshop
-        level: 70%
+        level: 75%
 
 footer: >
     Credits: Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
