@@ -71,7 +71,7 @@ experiences:
         Involved in development of POS system, testing and debugging databases
     - role: Part Time Research Assistant 
       time: 03/2021 - 07/2021
-      company: Google, London
+      company: Multimedia University Melaka Campus
       details: |
         Research in behavioural modelling based on player actions and how behaviour could 
         affect a players' action and decision in gaming environment
@@ -84,29 +84,25 @@ experiences:
         
 projects:
     title: Projects
-#     intro: >
-#       You can list your side projects or open source libraries in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: FYP - Intelligent Car Parking Management System
-        details: |
+        tagline: |
          "Includes 2 major AI features: Vehicle Model Recognition & License Plate Recognition. This project won 2nd placing in the Project Showcase 2020/2021 organised by IT Society & Engineering Society of MMU Melaka."
 
       - title: Project - AI Modelling
-        details: |
+        tagline: |
          "Develop AI Models on a platform running on cloud so business user could run AI models on their business data with 0 coding experience or knowledge."
         
       - title: Project - Student Performance Analytics
-        details: |
+        tagline: |
          "Explore the student performance data and build predictive modelling to predict students' academic performance."
 
       - title: Project - Text Analytics
-        details: |
+        tagline: |
          "Apply Text Analytics with NLP to analyse text and give scoring based on the received input. Involved in productionalise the application using Docker and Airflow."
 
       - title: Project - Object Detection
-        details: |
+        tagline: |
          "Involve in research and experiment the object detection model and label images for model training."
       
 publications:
