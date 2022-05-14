@@ -1,7 +1,7 @@
 {% assign sports = site.data.data.sports %}
 {% if sports %}
   {% if site.data.data.sidebar.sports %}
-  <div class="education-container container-block">
+  <div class="sports-container container-block">
 
     <h2 class="container-block-title">
       Activities
@@ -34,9 +34,9 @@
           <div class="time">{{ event.time }}</div>
         </div><!--//upper-row-->
 
-      {% if graduation.details %}
+      {% if event.details %}
       <div class="details">
-        {{ graduation.details | markdownify }}
+        {{ event.details | markdownify }}
       </div><!--//details-->
       {% endif %}
 
