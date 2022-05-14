@@ -1,0 +1,48 @@
+{% assign sports = site.data.data.sports %}
+{% if sports %}
+  {% if site.data.data.sidebar.sports %}
+  <div class="education-container container-block">
+
+    <h2 class="container-block-title">
+      Activities
+    </h2>
+
+    {% for event in sports %}
+    <div class="item">
+      <h4 class="title">{{ event.title }}</h4>
+      <h5 class="meta">{{ event.university }}</h5>
+      <div class="time">{{ event.time }}</div>
+    </div><!--//item-->
+    {% endfor %}
+
+  </div><!--//sports-container-->
+  {% else %}
+  <section class="section sports-section">
+
+    <h2 class="section-title">
+      <span class="fa-stack fa-xs">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-table-tennis fa-stack-1x fa-inverse"></i>
+      </span>
+      Activities
+    </h2>
+
+    {% for event in sports %}
+    <div class="item">
+        <div class="upper-row">
+          <h3 class="title">{{ event.title }}</h3>
+          <div class="time">{{ event.time }}</div>
+        </div><!--//upper-row-->
+
+      {% if graduation.details %}
+      <div class="details">
+        {{ graduation.details | markdownify }}
+      </div><!--//details-->
+      {% endif %}
+
+    </div><!--//item-->
+    {% endfor %}
+
+  </section><!--//section-->
+  {% endif %}
+{% endif %}
