@@ -102,12 +102,12 @@ projects:
 
       - title: Project - Object Detection
         tagline: "Involve in research and experiment the object detection model and label images for model training."
-
-pubications:
-   title: Certications
+      
+publications:
+    title: Certifications
+    papers:
       - title: HUAWEI HCIA - AI
       - title: Convolutional Neural Networks in Tensorflow (deeplearning.ai - Coursera)
-        
 
 skills:
     title: Skills &amp; Proficiency
