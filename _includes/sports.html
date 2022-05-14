@@ -11,10 +11,16 @@
 
   {% for experience in sports %}
   <div class="item">
+    <div class="meta">
+
       <div class="upper-row">
         <h3 class="title">{{ experience.title }}</h3>
         <div class="time">{{ experience.time }}</div>
       </div><!--//upper-row-->
+
+      <div class="company">{{ experience.company }}</div>
+
+    </div><!--//meta-->
 
     {% if experience.details %}
     <div class="details">
