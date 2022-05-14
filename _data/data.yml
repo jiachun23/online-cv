@@ -99,6 +99,15 @@ projects:
 
       - title: Object Detection
         tagline: "Involve in research and experiment the object detection model and label images for model training."
+        
+sports:
+    - title: MMU Table Tennis Club
+      time: 2017 - 2021
+      details: |
+        - President for year 2019-2020
+        - Secretary for year 2018-2019
+        - Winning Champion MASISWA Southern Zone 2018 Table Tennis Team Event as Team Captain
+      
       
 publications:
     title: Certifications
