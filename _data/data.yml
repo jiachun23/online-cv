@@ -73,13 +73,15 @@ experiences:
       company: Multimedia University Melaka Campus
       details: |
         Research in behavioural modelling based on player actions and how behaviour could 
-        affect a players' action and decision in gaming environment
+        affect players' action and decision in a gaming environment
     - role: Data Scientist
       time: 08/2021 - Present
       company: Fusionex International
       details: |
-        Research and apply AI/ML techniques on business data to gain insights and build predictive modelling 
-        based on business use cases
+         - Research and apply AI/ML techniques on business data to gain insights and build predictive modelling 
+           based on business use cases
+         - Involved in productionalise application with cloud technologies
+         - Involved in research and build models for video object detection
         
 projects:
     title: Projects
@@ -126,37 +128,34 @@ skills:
         level: 98%
         
       - name: Computer Vision (OpenCV) 
-        level: 85%
+        level: 98%
         
       - name: MySQL
-        level: 85%
+        level: 88%
 
       - name: C++
-        level: 85%
+        level: 88%
 
       - name: Flask (Python Web)
-        level: 85%
+        level: 88%
 
       - name: Natural Language Processing
-        level: 85%
+        level: 88%
       
       - name: Git
-        level: 75%
+        level: 80%
         
       - name: Java
-        level: 75%
+        level: 80%
         
       - name: HTML
-        level: 75%
+        level: 80%
       
-      - name: PHP
-        level: 75%
-        
       - name: Docker
-        level: 75%
+        level: 80%
 
       - name: Photoshop
-        level: 75%
+        level: 80%
 
 footer: >
     Credits: Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
