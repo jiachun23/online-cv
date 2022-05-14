@@ -13,6 +13,10 @@ layout: default
 
 {% include projects.html %}
 
+{% unless site.data.data.sidebar.sports %}
+  {% include sports.html %}
+{% endunless %}
+
 {% include publications.html %}
 
 {% include skills.html %}
