@@ -49,20 +49,18 @@ career-profile:
       
 education:
     - degree: Sijil Pelajaran Malaysia (SPM)
-      university: SMK St. Francis, Melaka
-      time: 2016
-      details: |
-        SPM - 10 A
+      university: SMK St. Francis, Melaka (2016)
+      time: "SPM - 10 A"
+
     - degree: Foundation in Information Technology
-      university: Multimedia Univeristy Melaka Campus
-      time: 2017 - 2018
-      details: |
-        CGPA: 3.84
+      university: Multimedia University Melaka Campus (2018)
+      time: "CGPA: 3.84"
+     
     - degree: B. Computer Science (Hons) in Artifical Intelligence
-      university: Multimedia Univeristy Melaka Campus
-      time: 2018 - 2021
-      details: |
-        CGPA: 3.94
+      university: Multimedia University Melaka Campus (2021)
+      time: "CGPA: 3.94"
+     
+        
         
 experiences:
     - role: Internship - Web Developer
@@ -104,7 +102,7 @@ projects:
 sports:
     - role: Table Tennis Club 
       time: 2017 - 2021
-      company: Multimedia University
+      company: Multimedia University Melaka Campus
       details: |
         - President for year 2019-2020
         - Secretary for year 2018-2019
