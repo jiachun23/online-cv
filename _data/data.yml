@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Tan Jia Chun
-    tagline: Data Scientist
+    tagline: Associate Data Scientist
     avatar: jc.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -53,11 +53,11 @@ education:
       time: "SPM - 10 A"
 
     - degree: Foundation in Information Technology
-      university: Multimedia University Melaka Campus (2018)
+      university: Multimedia University (2018)
       time: "CGPA: 3.84"
      
     - degree: B. Computer Science (Hons) in Artifical Intelligence
-      university: Multimedia University Melaka Campus (2021)
+      university: Multimedia University (2021)
       time: "CGPA: 3.94"
      
         
@@ -74,7 +74,7 @@ experiences:
       details: |
         Research in behavioural modelling based on player actions and how behaviour could 
         affect players' action and decision in a gaming environment
-    - role: Data Scientist
+    - role: Associate Data Scientist
       time: 08/2021 - Present
       company: Fusionex International
       details: |
@@ -87,24 +87,29 @@ projects:
     title: Projects
     assignments:
       - title: Intelligent Car Parking Management System (FYP)
+        link: "#"
         tagline: "Includes 2 major AI features: Vehicle Model Recognition & License Plate Recognition. This project won 2nd placing in the Project Showcase 2020/2021 organised by IT Society & Engineering Society of MMU Melaka."
 
       - title: AI Models
+        link: "#"
         tagline: "Develop AI Models on a platform running on cloud so business user could run AI models with 0 coding knowledge."
         
       - title: Student Performance Analytics
+        link: "#"
         tagline: "Explore the student performance data and build predictive modelling to predict students' academic performance."
 
       - title: Text Analytics
+        link: "#"
         tagline: "Analyse text and give scoring based on the received input in text format. Involved in productionalise the application using cloud technology."
 
       - title: Object Detection
+        link: "#"
         tagline: "Involve in research and experiment the object detection model and label images for model training."
         
 sports:
     - role: Table Tennis Club 
       time: 2017 - 2021
-      company: Multimedia University Melaka Campus
+      company: Multimedia University
       details: |
         - President for year 2019-2020
         - Secretary for year 2018-2019
