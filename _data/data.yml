@@ -90,13 +90,13 @@ projects:
         tagline: "Includes 2 major AI features: Vehicle Model Recognition & License Plate Recognition. This project won 2nd placing in the Project Showcase 2020/2021 organised by IT Society & Engineering Society of MMU Melaka."
 
       - title: AI Models
-        tagline: "Develop AI Models on a platform running on cloud so business user could run AI models on their business data with 0 coding experience or knowledge."
+        tagline: "Develop AI Models on a platform running on cloud so business user could run AI models with 0 coding knowledge."
         
       - title: Student Performance Analytics
         tagline: "Explore the student performance data and build predictive modelling to predict students' academic performance."
 
       - title: Text Analytics
-        tagline: "Apply Text Analytics with NLP to analyse text and give scoring based on the received input. Involved in productionalise the application using Docker and Airflow."
+        tagline: "Analyse text and give scoring based on the received input in text format. Involved in productionalise the application using cloud technology."
 
       - title: Object Detection
         tagline: "Involve in research and experiment the object detection model and label images for model training."
