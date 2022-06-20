@@ -76,7 +76,7 @@ experiences:
         affect players' action and decision in a gaming environment
     - role: Associate Data Scientist
       time: 08/2021 - Present
-      company: Fusionex International
+      company: Fusionex Group
       details: |
          - Research and apply AI/ML techniques on business data to gain insights and build predictive modelling 
            based on business use cases
@@ -133,6 +133,9 @@ skills:
         level: 98%
         
       - name: Computer Vision (OpenCV) 
+        level: 98%
+        
+      - name: Data Analysis
         level: 98%
         
       - name: MySQL
